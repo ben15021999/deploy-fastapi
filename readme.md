@@ -6,7 +6,7 @@ See https://render.com/docs/deploy-fastapi or follow the steps below:
 
 ## Manual Steps
 
-1. You may use this repository directly or [create your own repository from this template](https://github.com/render-examples/fastapi/generate) if you'd like to customize the code.
+1. You may use this repository directly or [create your own repository from this template](https://github.com/ben15021999/deploy-fastapi) if you'd like to customize the code.
 2. Create a new Web Service on Render.
 3. Specify the URL to your new repository or this repository.
 4. Render will automatically detect that you are deploying a Python service and use `pip` to download the dependencies.
@@ -20,7 +20,7 @@ See https://render.com/docs/deploy-fastapi or follow the steps below:
 
 Or simply click:
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/render-examples/fastapi)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ben15021999/deploy-fastapi)
 
 ## Thanks
 
