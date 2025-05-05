@@ -5,7 +5,7 @@ from ultralytics import YOLO
 from fastapi.middleware.cors import CORSMiddleware
 from PIL import Image
 
-model = YOLO('YOLO11m-seg.pt')
+model = YOLO('yolo11m-seg.pt')
 
 from fastapi import FastAPI, UploadFile
 
